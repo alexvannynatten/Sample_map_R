@@ -1,6 +1,7 @@
-# Sample_map_R
-Some code to automatically plot sample data with water and landuse data from open street maps
+# Simple_Sample_Map
+Some code to automatically plot sample collection data with water features from Open Street Maps
 
-Plots points representing sampling locations using a bounding box derived from the points included. 
-Pulls data from Open Street Maps for water (lakes and rivers) and landuse (developed areas and forests)
-Plots the sample data and an inset map showing the location of the boudning box at a larger scale
+1. Establishes a bounding box around the sampling points and extract water features from this location from Open Street Maps
+2. Makes dataframes from the waterway features (rivers/streams/drains) and the water features (lakes/ponds)
+3. Plots the sampling points and the water features
+4. Plots the bounding box of the sampling sites on the country the samples were collected from to show broad scale of sampling
