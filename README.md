@@ -6,4 +6,4 @@ Some code to automatically plot sample collection data with water features from 
 3. Plots the sampling points and the water features
 4. Plots the bounding box of the sampling sites on the country the samples were collected from to show broad scale of sampling
 
-![Sample map](https://github.com/alexvannynatten/Colour-crystal-structures/blob/24ce7bd5517303ca5057a8f25ad3ced33e57bfb1/rho_dnds_col.png)
+![Sample map](https://github.com/alexvannynatten/Sample_map_R/blob/291801628f81c64970b5b131ff852a67149f9e62/sample_map.png)
